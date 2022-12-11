@@ -30,7 +30,6 @@ Hotel_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 47,Amuntai,ID,88.34,overcast clouds,-2.4177,115.2494,Grand Balqis Hotel
 48,Faanui,PF,80.24,few clouds,-16.4833,-151.75,Oa Oa Lodge
 49,Mount Gambier,AU,76.78,clear sky,-37.8333,140.7667,The Old Mount Gambier Gaol
-50,Uyemskiy,RU,19.45,overcast clouds,64.4743,40.8524,Малые Карелы
 51,Hermanus,ZA,67.8,clear sky,-34.4187,19.2345,Aloe guest house
 52,Castro,BR,65.28,overcast clouds,-24.7911,-50.0119,Hotel Central Palace
 53,Sombrio,BR,70.93,few clouds,-29.1139,-49.6167,Hotel São Cristóvão
@@ -81,7 +80,6 @@ Hotel_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 133,Vila,PT,39.7,overcast clouds,42.0304,-8.1588,Hotel Miracastro
 134,Port Macquarie,AU,69.89,overcast clouds,-31.4333,152.9167,The Observatory
 135,Saldanha,ZA,62.91,clear sky,-33.0117,17.9442,Hoedjesbaai
-136,Kenai,US,15.15,mist,60.5544,-151.2583,Beluga Lookout Hotel
 137,Skibbereen,IE,35.44,scattered clouds,51.55,-9.2667,West Cork Hotel
 138,New Norfolk,AU,63.88,overcast clouds,-42.7826,147.0587,Woodbridge on the Derwent
 139,Bontang,ID,81.88,overcast clouds,0.1333,117.5,Hotel Sederhana
@@ -109,7 +107,6 @@ Hotel_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 197,Isla Vista,US,57.34,clear sky,34.4133,-119.861,The Club & Guest House
 198,Baoding,CN,34.56,clear sky,38.8511,115.4903,Homeinn
 203,Sitka,US,33.69,light snow,57.0531,-135.33,Aspen Suites Hotel
-207,Votkinsk,RU,15.78,light snow,57.0486,53.9872,Малахит
 208,Los Llanos De Aridane,ES,66.13,clear sky,28.6585,-17.9182,Valle Aridane
 209,Antalaha,MG,72.05,few clouds,-14.9003,50.2788,Hôtel Florida
 210,Aiquile,BO,62.92,scattered clouds,-18.2041,-65.1807,Quinta del Sur
@@ -168,7 +165,6 @@ Hotel_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 304,Casimiro De Abreu,BR,69.51,few clouds,-22.4806,-42.2042,Hotel Patropi
 305,Putatan,MY,82.42,few clouds,5.9258,116.0609,Airport View Hotel
 307,Ponta Delgada,PT,65.5,moderate rain,37.7333,-25.6667,Hotel Talisman
-308,Bjerkvik,NO,19.22,clear sky,68.5597,17.5189,Bjerkvik hotell
 312,Touros,BR,78.48,few clouds,-5.1989,-35.4608,Pousada Atlântico
 313,Sibenik,HR,60.46,light rain,43.7272,15.9058,D-Resort Sibenik
 317,Westport,US,38.75,clear sky,41.1415,-73.3579,Norwalk Inn and Conference Center
@@ -181,7 +177,6 @@ Hotel_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 329,Huarmey,PE,67.01,overcast clouds,-10.0681,-78.1522,Hostal Santa Rosa
 331,Arua,UG,64.2,overcast clouds,3.0201,30.9111,De L'ambiance
 332,Daru,PG,83.25,overcast clouds,-9.0763,143.2092,Kuki
-333,Lavrentiya,RU,15.91,overcast clouds,65.5833,-171.0,Фортуна
 335,Partenit,UA,52.0,overcast clouds,44.578,34.3446,Sunrise
 336,Victoria,HK,66.94,clear sky,22.2855,114.1577,四季酒店 Four Seasons Hotel
 339,West Wendover,US,33.01,overcast clouds,40.7391,-114.0733,The Red Garter Hotel and Casino
@@ -265,7 +260,6 @@ Hotel_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 495,Dwarka,IN,72.72,clear sky,22.2394,68.9678,The Dwarika Hotel
 497,Freeport,US,39.25,clear sky,40.6576,-73.5832,The Freeport Inn and Marina
 498,Jardim,BR,80.65,broken clouds,-21.4803,-56.1381,Hotel Uchôa
-500,Datong,CN,16.02,clear sky,40.0936,113.2914,Garden Hotel
 501,Salalah,OM,72.88,clear sky,17.0151,54.0924,Muscat International Hotel
 502,Soyo,AO,77.92,light rain,-6.1349,12.3689,Hotel Maria Teres
 503,Geraldton,AU,73.81,scattered clouds,-28.7667,114.6,Ocean Centre Hotel
@@ -274,7 +268,6 @@ Hotel_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 506,Ponta Do Sol,PT,68.0,overcast clouds,32.6667,-17.1,Estalagem Ponta do Sol
 509,Sao Felix Do Xingu,BR,71.91,overcast clouds,-6.6447,-51.995,Hotel Terraço
 510,Nouadhibou,MR,67.98,few clouds,20.931,-17.0347,Hotel valencia
-512,College,US,15.75,light snow,64.8569,-147.8028,BEST WESTERN PLUS Pioneer Park Inn
 513,Hendersonville,US,56.28,overcast clouds,36.3048,-86.62,Fairfield Inn & Suites
 514,Guayaquil,EC,77.95,scattered clouds,-2.1667,-79.9,Courtyard Marriott Hotel
 516,Burnie,AU,62.94,overcast clouds,-41.0667,145.9167,Burnie Central TownHouse Hotel
@@ -306,8 +299,6 @@ Hotel_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 575,Paamiut,GL,23.95,clear sky,61.994,-49.6678,Hotel Ivaana
 577,Tres Arroyos,AR,59.4,clear sky,-38.3739,-60.2798,Andrea Hotel
 578,Kankakee,US,38.91,mist,41.15,-87.8667,Quality Inn & Suites
-579,Mehamn,NO,19.31,few clouds,71.0357,27.8492,Mehamn Arctic hotell
-581,Fairbanks,US,15.76,light snow,64.8378,-147.7164,Westmark Fairbanks Hotel
 588,Kawalu,ID,78.93,broken clouds,-7.3817,108.2082,Hotel Surya
 590,Den Helder,NL,35.02,broken clouds,52.9599,4.7593,Forest Hotel
 591,Camopi,GF,71.38,broken clouds,3.1655,-52.3158,Chez Lucia
